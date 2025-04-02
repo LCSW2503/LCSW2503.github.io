@@ -1,3 +1,6 @@
+website:
+https://lcsw2503.github.io
+
 The Bomb-Batteries websites is provided under:
 
 	SPDX-License-Identifier: GPL-2.0
